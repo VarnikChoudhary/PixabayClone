@@ -1,9 +1,10 @@
 
-
 # Pixabay Clone 📸
 
-A fully responsive image gallery application built with **React.js** and **Tailwind CSS**, powered by the **Pixabay API**.(https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQE8I_wX2mAqrB1PpELMFkuKgRkH1LbIndeMTM1kNrFqpdTVV1f7pNQm7sMA7VRmGDRze0cw3SDAO5oMtrhcXTgwucSM2rFM0YmHgDltind9hLtpH3102Pzi411DUq9TLWgwHQOfCzuc)](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEX0MGO2DgyM7PsT0Ph_YM3RLaUlEPH0snwHAb984_4HE1KrvD1LJODzNhagP1iCnIuT1aAl5tKlyPUMO4V4ZQJp2V3t10yGvIEx7u88b4W9AyDxVr0JzMPfgtmIenH-24eeZaMgP52wGuXoqVY)] This project allows users to search for high-quality images, filter them by categories, and view detailed information about each image.
+A fully responsive image gallery application built with **React.js** and **Tailwind CSS**, powered by the **Pixabay API**.[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQE8I_wX2mAqrB1PpELMFkuKgRkH1LbIndeMTM1kNrFqpdTVV1f7pNQm7sMA7VRmGDRze0cw3SDAO5oMtrhcXTgwucSM2rFM0YmHgDltind9hLtpH3102Pzi411DUq9TLWgwHQOfCzuc)][[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQEX0MGO2DgyM7PsT0Ph_YM3RLaUlEPH0snwHAb984_4HE1KrvD1LJODzNhagP1iCnIuT1aAl5tKlyPUMO4V4ZQJp2V3t10yGvIEx7u88b4W9AyDxVr0JzMPfgtmIenH-24eeZaMgP52wGuXoqVY)] This project allows users to search for high-quality images, filter them by categories, and view detailed information about each image.
 
+## 🚀 Live Demo
+Check out the live project here: [Pixabay Clone Live](https://pixabayclone.netlify.app) *(Update this link if different)*
 
 ## ✨ Features
 - **Image Search:** Real-time search functionality to find specific images.
@@ -88,4 +89,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 **Created by [Varnik Choudhary](https://github.com/VarnikChoudhary)**
-
